@@ -1,5 +1,3 @@
 - Hi, I’m Chinmay
-- I’m interested in anything and everything around DevSecOps, IaC and Network Security and gcloud SDKs
-- I’m currently learning containerization in depth along with a hint of GoLang
-- I’m looking to collaborate on Terraform, Python, gcloud SDKs
+- I’m interested in anything and everything around product and desing.
 - Do reach out to me on LinkedIn via https://www.linkedin.com/in/chinmaydorlikar/
